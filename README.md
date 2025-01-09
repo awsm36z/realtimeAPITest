@@ -3,7 +3,7 @@
 
 This project demonstrates a client-side “tool calling” setup with OpenAI’s WebRTC Realtime API, tailored for a museum kiosk in the Dinosaur Exhibit at the Pacific Science Center. The kiosk only answers logistics questions (directions, show times, etc.)
 
-
+This Project is inspired from [Craig]
 This project is a [Cloudflare Workers](https://developers.cloudflare.com) app using [Hono](https://honojs.dev) to relay the [OpenAI Realtime API](https://platform.openai.com/docs/api-reference/realtime) over WebRTC. The main files are just [static assets](https://developers.cloudflare.com/workers/static-assets/).
 
 [<img src="https://img.youtube.com/vi/TcOytsfva0o/0.jpg">](https://youtu.be/TcOytsfva0o "Client Side Tool Calling with the OpenAI WebRTC Realtime API")
